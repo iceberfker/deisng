@@ -2,16 +2,20 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "Pioneer Legends"; // Skip if not NFT
-    const serverName = "Elon Yacht Club";
-    const serverDescription = "Together we will build a beautiful future. Trust the process and the Elon community";
-    const serverWebsite = "https://opensea.io/0xdb0e2b56752cd7cb8218c52e5f2ddab3094270b3/created"; // include https://
-    const serverTwitter = "https://x.com/BoredElon_YC"; // include https://
-    const serverDiscord = "https://discord.gg/AFgHKnZ7"; // include https://
-    const serverChain = "apechain";
+    const serverName = "Fearless Bulls";
+    const serverDescription = "Fearless Bulls Club is a self serving ecosystem powered by ambition, creativity and unity. Bullish Growth Fund, NFT Staking, $BLSH Token, Ecommerce & more.";
+    const serverWebsite = "https://fbc.soyouboughtit.app/"; // include https://
+    const serverTwitter = "https://x.com/Fearless_Bulls"; // include https://
+    const serverDiscord = "https://discord.gg/y8ZNrgwM"; // include https://
+    const serverChain = "solana";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://opensea.io/0xdb0e2b56752cd7cb8218c52e5f2ddab3094270b3/created";
+    const explorerLink = "https://solscan.io/collection/1bffe2aeb43991542da83e074024c448b15902def06aa0ab6f535c89bc4e9bb7";
     const gifImages = [
-   "https://pbs.twimg.com/profile_images/1904056316248612864/da6UigeJ_400x400.jpg",
+   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fwww.arweave.net%2FUqs76B9ZRJkNXJombz2gxv_5ZKJGQbvb9Aj9oy1_SdM%3Fext%3Dpng",
+   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fwww.arweave.net%2FA9ajYmoHW9naezAkojY-ZVA-YlgLoPfmQc14Bs4qUEQ%3Fext%3Dpng",
+   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fwww.arweave.net%2F3Ve7xJxb7x8QF2nYUsw-ux2DQ0D3S9BZoHD9Vfzc9H0%3Fext%3Dpng",
+   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fwww.arweave.net%2FeyzPndonkCsDL9j_gb9SL5bHRf8bpddcVaHlf0U62FM%3Fext%3Dpng",
+   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fwww.arweave.net%2FNdjL4zeo_BX1v5GcqImpd8ciXN1WdjCn8452MQFvi6Q%3Fext%3Dpng",
 
     ];
 
