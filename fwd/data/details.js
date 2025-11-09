@@ -2,17 +2,21 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "Spells of Genesis";
-    const serverDescription = "Spells of Genesis is a blockchain-based trading card that originally launched on Counterparty in 20115 and combines elements of traditional trading card games with blockchain technology";
-    const serverWebsite = "https://emblem.vision/"; // include https://
-    const serverTwitter = "https://x.com/EmblemVault"; // include https://
-    const serverDiscord = "https://discord.gg/NDRfy6tdvN"; // include https://
+    const serverName = "Boonji Project";
+    const serverDescription = "Boonji Project, launched on the Ethereum blockchain in 2021, is a collection of unique digital non-fungible tokens created by world-renowned artist Brendan Murphy.";
+    const serverWebsite = "https://boonjiproject.com/"; // include https://
+    const serverTwitter = "https://x.com/BoonjiProject"; // include https://
+    const serverDiscord = "https://discord.gg/fwd"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
     const gifImages = [
-        "https://raw2.seadn.io/ethereum/0xdca91409018ea80b71d21e818f00e76072969861/bdb501904be270b3f733c0a83d6e4c/24bdb501904be270b3f733c0a83d6e4c.jpeg",
-        "https://raw2.seadn.io/ethereum/0xdca91409018ea80b71d21e818f00e76072969861/72d3bbc7f3c34b13b83cbc0a4c7a9d/4f72d3bbc7f3c34b13b83cbc0a4c7a9d.jpeg",
+
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flink.us1.storjshare.io%2Fraw%2Fjws5cnue3pwx42a5tkfnq6qdj3qa%2Fboonjiprojectcom%2Fdecentralizedassets-highres%2F5414.png",
+
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flink.us1.storjshare.io%2Fraw%2Fjws5cnue3pwx42a5tkfnq6qdj3qa%2Fboonjiprojectcom%2Fdecentralizedassets-highres%2F9605.png",
+
+"https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flink.us1.storjshare.io%2Fraw%2Fjws5cnue3pwx42a5tkfnq6qdj3qa%2Fboonjiprojectcom%2Fdecentralizedassets-highres%2F9348.png",
 
             ];
 
